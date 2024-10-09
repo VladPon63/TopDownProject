@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Vlad/ROBOT_DREAMS/CPP_UNREAL_LEXUS/MY_TOP_DOWN_PROJECT/TopDownProject/Content/TopDown/Blueprints/DT_VitalAttribute_Init.uasset",
+				"C:/Vlad/ROBOT_DREAMS/CPP_UNREAL_LEXUS/MY_TOP_DOWN_PROJECT/TopDownProject/Content/TopDown/Blueprints/BP_TopDownPlayerState.uasset",
+				"C:/Vlad/ROBOT_DREAMS/CPP_UNREAL_LEXUS/MY_TOP_DOWN_PROJECT/TopDownProject/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset"
+			]
+		}
+	]
+}
