@@ -41,6 +41,12 @@
     <ClInclude Include="..\..\Source\TopDownProject\AbilityInputSubsystem.h">
       <Filter>Source\TopDownProject</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\TopDownProject\DamageAttributeSet.cpp">
+      <Filter>Source\TopDownProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TopDownProject\DamageAttributeSet.h">
+      <Filter>Source\TopDownProject</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\TopDownProject\TestAttributeSet.cpp">
       <Filter>Source\TopDownProject</Filter>
     </ClCompile>

@@ -7,7 +7,12 @@
 			"files": [
 				"C:/Vlad/ROBOT_DREAMS/CPP_UNREAL_LEXUS/MY_TOP_DOWN_PROJECT/TopDownProject/Content/TopDown/Blueprints/DT_VitalAttribute_Init.uasset",
 				"C:/Vlad/ROBOT_DREAMS/CPP_UNREAL_LEXUS/MY_TOP_DOWN_PROJECT/TopDownProject/Content/TopDown/Blueprints/BP_TopDownPlayerState.uasset",
-				"C:/Vlad/ROBOT_DREAMS/CPP_UNREAL_LEXUS/MY_TOP_DOWN_PROJECT/TopDownProject/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset"
+				"C:/Vlad/ROBOT_DREAMS/CPP_UNREAL_LEXUS/MY_TOP_DOWN_PROJECT/TopDownProject/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"C:/Vlad/ROBOT_DREAMS/CPP_UNREAL_LEXUS/MY_TOP_DOWN_PROJECT/TopDownProject/Content/TopDown/Blueprints/W_Health.uasset",
+				"C:/Vlad/ROBOT_DREAMS/CPP_UNREAL_LEXUS/MY_TOP_DOWN_PROJECT/TopDownProject/Content/TopDown/Blueprints/Effects/GE_TestEffect.uasset",
+				"C:/Vlad/ROBOT_DREAMS/CPP_UNREAL_LEXUS/MY_TOP_DOWN_PROJECT/TopDownProject/Content/TopDown/Blueprints/DT_DamageAttributeSet.uasset",
+				"C:/Vlad/ROBOT_DREAMS/CPP_UNREAL_LEXUS/MY_TOP_DOWN_PROJECT/TopDownProject/Content/TopDown/Maps/TopDownMap.umap",
+				"C:/Vlad/ROBOT_DREAMS/CPP_UNREAL_LEXUS/MY_TOP_DOWN_PROJECT/TopDownProject/Content/TopDown/Blueprints/BP_GameMode.uasset"
 			]
 		}
 	]

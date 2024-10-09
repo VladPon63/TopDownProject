@@ -19,5 +19,21 @@ public:
 	UPROPERTY(BlueprintReadOnly)
 	FGameplayAttributeData Health;
 	ATTRIBUTE_ACCESSORS(UVitalAttributeSet, Health);
+
+	UPROPERTY(BlueprintReadOnly)
+	FGameplayAttributeData MaxHealth;
+	ATTRIBUTE_ACCESSORS(UVitalAttributeSet, MaxHealth);
+
+	UPROPERTY(BlueprintReadOnly)
+	FGameplayAttributeData Mana;
+	ATTRIBUTE_ACCESSORS(UVitalAttributeSet, Mana);
+
+	UPROPERTY(BlueprintReadOnly)
+	FGameplayAttributeData MaxMana;
+	ATTRIBUTE_ACCESSORS(UVitalAttributeSet, MaxMana);
+
+
+
+
 	
 };
